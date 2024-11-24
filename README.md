@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blaucast Media**
+- 🌱 I’m currently learning **server side rendering, cloud computing, backend development**
 
-- 🌱 I’m currently learning **server side rendering, cloud computing**
-
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **backend projects**
 
 - 👨‍💻 All of my projects are available at [GitHub | alexandersanchezjr](https://github.com/alexandersanchezjr)
 
-- 💬 Ask me about **Angular, Spring, NodeJS, Java, k8s, Docker**
+- 💬 Ask me about **Django, Django Rest Framework, Angular, Spring, NodeJS, Java, k8s, Docker, Terraform**
 
 - 📫 How to reach me **alexandersanchez.jr@outlook.com**
 
