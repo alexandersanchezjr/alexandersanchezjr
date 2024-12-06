@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Sánchez</h1>
-<h3 align="center">Angular Mobile Dev @ Blaucast Media, also Software Engineer, Full-Stack Developer, DevOps Enthusiast and Passionate about Innovation 🚀 from Colombia 🇨🇴</h3>
+<h3 align="center">Software Engineer, Full-Stack Developer, DevOps Enthusiast and Passionate about Innovation 🚀 from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandersanchezjr&label=Profile%20views&color=0e75b6&style=flat" alt="alexandersanchezjr" /> </p>
 
